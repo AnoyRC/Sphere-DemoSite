@@ -6,7 +6,7 @@ export default function Carousel() {
       <div
         className="w-[85%] h-[594px] rounded-[20px] bg-[#F5F7F9] items-center justify-center flex"
         style={{
-          boxShadow: "0px 30.16247px 39.03379px 0px rgba(0, 0, 0, 0.10)",
+          boxShadow: "0px 0px 39.03379px 0px rgba(0, 0, 0, 0.10)",
         }}
       >
         <Image src="/images/Carousel/Carousel.png" width={300} height={300} />
