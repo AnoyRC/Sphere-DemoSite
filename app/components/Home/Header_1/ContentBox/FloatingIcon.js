@@ -6,7 +6,7 @@ export default function FloatingIcon({ IconName, Width, Height, top, left }) {
       width={Width}
       height={Height}
       alt="arrow"
-      className="absolute"
+      className="absolute z-0"
       style={{ top: `${top}px`, left: `${left * 100}%` }}
     />
   );
